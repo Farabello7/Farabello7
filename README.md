@@ -6,12 +6,6 @@
 
 ## 🌐 Where to find me
 
-<p align="left">
-  <a href="https://github.com/Farabello7">
-    <img  src="https://img.shields.io/badge/Instagram-@YOFARABELLO-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 🧠 What I do

@@ -8,8 +8,7 @@
 
 <p align="left">
   <a href="https://github.com/Farabello7">
-    <img src="https://img.shields.io/badge/GitHub-Farabello7-181717?style=for-the-badge&logo=github" />
-  </a> src="https://img.shields.io/badge/Instagram-@YOFARABELLO-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img  src="https://img.shields.io/badge/Instagram-@YOFARABELLO-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
